@@ -3,7 +3,7 @@
 ## Date: 16-7-2023.
 
 ## Async Inn ERD
-![ERD](Asserts/lab11.png)
+![ERD](Async-Inn/Asserts/lab11.png)
 
 ### I have the following tables:
 * Room: Every Item in this table is a room, it has an Room_ID which is a primary key, a nickname to descripe it, a layout and a Amenities.
